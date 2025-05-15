@@ -1,0 +1,22 @@
+.mecf-wrapper {
+    max-width: 500px;
+    margin: 20px auto;
+}
+.mecf-form input, .mecf-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.mecf-form button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.mecf-response {
+    margin-top: 10px;
+}
